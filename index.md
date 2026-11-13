@@ -60,7 +60,7 @@ If this policy changes, the new version will be published on this page with a ne
 
 ## Contact
 
-Questions about privacy: [open an issue in this repository](https://github.com/Alberto22m/crossing-quest-privacy/issues).
+Questions about privacy: email [rnane.1@icloud.com](mailto:rnane.1@icloud.com) or [open an issue in this repository](https://github.com/Alberto22m/crossing-quest-privacy/issues). Game support: [Support page](https://alberto22m.github.io/crossing-quest-privacy/support/).
 
 ---
 
@@ -120,7 +120,7 @@ Crossing Quest — игра-головоломка для iPhone и iPad. Зде
 
 ### Связь
 
-Вопросы о конфиденциальности: [создайте обращение (issue) в этом репозитории](https://github.com/Alberto22m/crossing-quest-privacy/issues).
+Вопросы о конфиденциальности: напишите на [rnane.1@icloud.com](mailto:rnane.1@icloud.com) или [создайте обращение (issue) в этом репозитории](https://github.com/Alberto22m/crossing-quest-privacy/issues). Поддержка игры: [страница поддержки](https://alberto22m.github.io/crossing-quest-privacy/support/#русский).
 
 ---
 
@@ -180,7 +180,7 @@ Si esta política cambia, la nueva versión se publicará en esta página con un
 
 ### Contacto
 
-Preguntas sobre privacidad: [abre una incidencia (issue) en este repositorio](https://github.com/Alberto22m/crossing-quest-privacy/issues).
+Preguntas sobre privacidad: escribe a [rnane.1@icloud.com](mailto:rnane.1@icloud.com) o [abre una incidencia (issue) en este repositorio](https://github.com/Alberto22m/crossing-quest-privacy/issues). Soporte del juego: [página de soporte](https://alberto22m.github.io/crossing-quest-privacy/support/#español).
 
 ---
 
@@ -240,4 +240,4 @@ Si cette politique change, la nouvelle version sera publiée sur cette page avec
 
 ### Contact
 
-Questions sur la confidentialité : [ouvre un ticket (issue) dans ce dépôt](https://github.com/Alberto22m/crossing-quest-privacy/issues).
+Questions sur la confidentialité : écris à [rnane.1@icloud.com](mailto:rnane.1@icloud.com) ou [ouvre un ticket (issue) dans ce dépôt](https://github.com/Alberto22m/crossing-quest-privacy/issues). Support du jeu : [page d’assistance](https://alberto22m.github.io/crossing-quest-privacy/support/#français).
