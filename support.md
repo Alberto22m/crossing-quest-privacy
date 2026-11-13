@@ -107,7 +107,7 @@ Damit wir schneller antworten können, gib bitte an:
 
 Wir antworten in der Regel innerhalb weniger Tage.
 
-**Käufe und Abo.** Zahlungen wickelt Apple ab. Das Abo „Keine Werbung“ kannst du unter Einstellungen → dein Name → Abonnements verwalten oder kündigen. Eine Rückerstattung kannst du über [reportaproblem.apple.com](https://reportaproblem.apple.com) anfordern.
+**Käufe und Abo.** Zahlungen wickelt Apple ab. Das Abo „Ohne Werbung“ kannst du unter Einstellungen → dein Name → Abonnements verwalten oder kündigen. Eine Rückerstattung kannst du über [reportaproblem.apple.com](https://reportaproblem.apple.com) anfordern.
 
 **Spielfortschritt.** Der Fortschritt wird auf deinem Gerät gespeichert und, wenn du bei iCloud angemeldet bist, zwischen deinen Geräten mit demselben Apple Account synchronisiert.
 
@@ -131,7 +131,7 @@ Wir antworten in der Regel innerhalb weniger Tage.
 
 نرد عادةً خلال أيام قليلة.
 
-**المشتريات والاشتراك.** تتولى Apple معالجة المدفوعات. يمكنك إدارة اشتراك «بدون إعلانات» أو إلغاؤه من الإعدادات ← اسمك ← الاشتراكات. لطلب استرداد المبلغ، استخدم [reportaproblem.apple.com](https://reportaproblem.apple.com).
+**المشتريات والاشتراك.** تتولى Apple معالجة المدفوعات. يمكنك إدارة اشتراك «بلا إعلانات» أو إلغاؤه من الإعدادات ← اسمك ← الاشتراكات. لطلب استرداد المبلغ، استخدم [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 **تقدّم اللعبة.** يُحفظ تقدّمك على جهازك، وإذا كنت مسجّلًا في iCloud تتم مزامنته بين أجهزتك التي تستخدم حساب Apple نفسه.
 
@@ -155,7 +155,7 @@ Wir antworten in der Regel innerhalb weniger Tage.
 
 我们通常会在几天内回复。
 
-**购买与订阅。** 付款由 Apple 处理。你可以在"设置 → 你的名字 → 订阅"中管理或取消"无广告"订阅。如需申请退款，请访问 [reportaproblem.apple.com](https://reportaproblem.apple.com)。
+**购买与订阅。** 付款由 Apple 处理。你可以在"设置 → 你的名字 → 订阅"中管理或取消"免广告"订阅。如需申请退款，请访问 [reportaproblem.apple.com](https://reportaproblem.apple.com)。
 
 **游戏进度。** 进度保存在你的设备上；如果你已登录 iCloud，进度会在使用同一 Apple 账户的设备之间同步。
 
